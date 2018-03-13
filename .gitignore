@@ -183,3 +183,5 @@ venv.bak/
 
 
 # End of https://www.gitignore.io/api/linux,python,pycharm
+
+data/    # don't upload data for size and copyright reasons
